@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GuiCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuiCalc_jar</output-path>
+    <root id="archive" name="GuiCalc.jar">
+      <element id="module-output" name="GuiCalc" />
+    </root>
+  </artifact>
+</component>
